@@ -25,8 +25,6 @@ const Chat = () => {
           borderRadius="50%"
         />
         </div>
-      </div>
-      
         {chatData?.map((item, index) => (
           <div key={index} className="flex items-center gap-5 border-b-1 border-color p-3 leading-8 cursor-pointer">
             <div className="relative">
@@ -56,7 +54,7 @@ const Chat = () => {
             width="full"
           />
         </div>
-      
+      </div>
     </div>
   );
 };
