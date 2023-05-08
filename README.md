@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Syncfusion Dashboard App
+Incredible dashboard app based on the original Project by the JavaScript Mastery team. Original README [here](https://github.com/adrianhajdin/project_syncfusion_dashboard)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
